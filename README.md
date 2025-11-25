@@ -30,8 +30,6 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 
 ## 📘 Bitácora de trabajo
 
-> **Formato:** *Fecha – Qué se hizo, problemas encontrados, decisiones tomadas.*
-
 ### 🗓️ 11/11/25 – Inicio del proyecto  
 - Definimos la idea principal: *Cuatro en Raya con matriz 8x8 y joystick*.  
 - Revisión de materiales y planificación inicial.
@@ -49,7 +47,6 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 ## 🔌 Boceto del circuito (Tinkercad / Fritzing)
 
 ### 🔧 Esquema del montaje  
-*(Incluye el cableado de la matriz 8x8, joystick y Arduino.)*
 
 ![Matrix8x8 Arduino](https://github.com/user-attachments/assets/1240046c-6ab7-4172-9f83-809f5fe94416)
 
