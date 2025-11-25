@@ -36,22 +36,13 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 - Definimos la idea principal: *Cuatro en Raya con matriz 8x8 y joystick*.  
 - Revisión de materiales y planificación inicial.
 
-### 🗓️ 13/11/25 – Verificación de componentes  
-- Comprobación de que la matriz LED funciona correctamente.  
-- Identificación de pines y pruebas manuales de iluminación.
+### 🗓️ 20/11/25 – Verificación de componentes  
+- Código inicial de "Set up" completado
+- Adaptación de los cables para un fácil montaje
 
-### 🗓️ 18/11/25 – Pruebas de encendido  
-- Encendidos de prueba recorriendo filas y columnas.  
-- Entendimos correctamente la orientación ánodo/cátodo.
-
-### 🗓️ 20/11/25 – Montaje completo + test  
-- Montaje final del circuito.  
-- Creación del código `SetUpPines.ino`, que enciende cada LED individualmente.  
-- Ya tenemos la base para empezar la lógica del juego.
-
-### 🗓️ 25/11/25 – Lectura del joystick  
-- Lectura correcta del joystick y primera prueba para mover selección.  
-- Decisiones sobre sensibilidad del joystick.
+### 🗓️ 25/11/25 – Pruebas de encendido  
+- Código de movimiento del joystick completado
+- Comprobación del movimiento entre columnas.
 
 ---
 
@@ -76,12 +67,10 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 - Arduino UNO / compatible  
 - Protoboard  
 - Cables macho-macho  
-- Resistencias (si son necesarias)
 
 ---
 
 ## 📈 Esquema de conexiones
-*(Puedes usar el esquema de Tinkercad o incluir otro.)*
 
 ![image-1763633699471](https://github.com/user-attachments/assets/464fcb99-9c37-4dcc-9fd4-62c7b5dfb689)
 
@@ -107,6 +96,9 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 
 ---
 
-## 📷 Otros materiales (opcionales)
-- Fotos del montaje físico  
-- Vídeo del prototipo funcionando (recomendado para LiveDemo)
+## 📷 Otros materiales
+
+Un vídeo de muestra de cómo funciona el código "MovimientoJoystick"
+https://github.com/user-attachments/assets/ac8557bc-60c5-4e22-ba05-700c3c7971ef
+
+
