@@ -20,11 +20,8 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 ## 📅 Plan de sprints
 | Sprint | Objetivo | Estado |
 |--------|-----------|---------|
-| **Sprint 1** | Montaje del circuito + prueba de la matriz LED | ✔️ Completado |
-| **Sprint 2** | Lectura del joystick + movimiento entre columnas | 🔄 En progreso |
-| **Sprint 3** | Lógica de fichas + turnos | ⏳ Pendiente |
-| **Sprint 4** | Detección de victoria + pulido | ⏳ Pendiente |
-| **Sprint 5** | Pruebas finales + documentación | ⏳ Pendiente |
+| **Sprint 1** | Montaje básico del juego completo, con sistema de turnos y de victoria | 🔄 En progreso |
+| **Sprint 2** | Lectura del joystick + movimiento entre columnas | ⏳ Pendiente |
 
 ---
 
