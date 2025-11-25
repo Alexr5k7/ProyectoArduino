@@ -4,7 +4,7 @@ El objetivo de este proyecto es hacer un "Cuatro en raya" funcional con un joyst
 
 El equipo está compuesto por Xavier Pastor y Alejandro Martínez. Xavier se encarga del montaje del arduino, y Alejandro de la programación del código.
 
-El día 20/11/25 se completó el montaje del arduino y se completó el primer código del proyecto, el cuál está adjunto en Github y sirve para encender todas las LED a la vez. A partir de eso, podemos hacer la lógica del "Cuatro en raya" de forma limpia y más fácil.
+El día 20/11/25 se completó el montaje del arduino y se completó el primer código del proyecto, el cuál está adjunto en Github y sirve para encender todas las LED a la vez, llamado "SetUpPines". A partir de eso, podemos hacer la lógica del "Cuatro en raya" de forma limpia y más fácil.
 Actualmente solo está el "set up" básico del juego, pero una vez teniendo el código que controla de froam correcta todas las LED, se podrá avanzar mucho más rápido.
 
 Este es el montaje básico de la matriz 8x8:
