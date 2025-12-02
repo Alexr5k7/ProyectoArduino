@@ -21,7 +21,7 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 | Sprint | Objetivo | Estado |
 |--------|-----------|---------|
 | **Sprint 1** | Montaje básico del juego completo, con sistema de turnos y de victoria | 🔄 En progreso |
-| **Sprint 2** | Lectura del joystick + movimiento entre columnas | ⏳ Pendiente |
+| **Sprint 2** | Comprobación del loop final del juego y correcto funcionamiento general | ⏳ Pendiente |
 
 ---
 
@@ -31,13 +31,17 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 - Definimos la idea principal: *Cuatro en Raya con matriz 8x8 y joystick*.  
 - Revisión de materiales y planificación inicial.
 
-### 🗓️ 20/11/25 – Verificación de componentes  
+### 🗓️ 20/11/25 – Set up y montaje 
 - Código inicial de "Set up" completado
 - Adaptación de los cables para un fácil montaje
 
-### 🗓️ 25/11/25 – Pruebas de encendido  
+### 🗓️ 25/11/25 – Movimiento del joystick completo  
 - Código de movimiento del joystick completado
 - Comprobación del movimiento entre columnas.
+
+### 🗓️ 02/12/25 – Sistema de fichas y turnos  
+- Código de turnos y movimiento de las fichas
+- Comprobación de finalización de partidas
 
 ---
 
