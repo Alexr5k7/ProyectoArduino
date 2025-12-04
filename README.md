@@ -20,8 +20,8 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 ## 📅 Plan de sprints
 | Sprint | Objetivo | Estado |
 |--------|-----------|---------|
-| **Sprint 1** | Montaje básico del juego completo, con sistema de turnos y de victoria | 🔄 En progreso |
-| **Sprint 2** | Comprobación del loop final del juego y correcto funcionamiento general | ⏳ Pendiente |
+| **Sprint 1** | Montaje básico del juego completo, con sistema de turnos y de victoria | ✔️ Completado |
+| **Sprint 2** | Comprobación del loop final del juego y correcto funcionamiento general | ✔️ Completado |
 
 ---
 
@@ -42,6 +42,7 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 ### 🗓️ 02/12/25 – Sistema de fichas y turnos  
 - Código de turnos y movimiento de las fichas
 - Comprobación de finalización de partidas
+- Cronómetro hecho mediante sonido de un buzzer
 
 ---
 
@@ -50,6 +51,7 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 ### 🔧 Esquema del montaje  
 
 ![Matrix8x8 Arduino](https://github.com/user-attachments/assets/1240046c-6ab7-4172-9f83-809f5fe94416)
+
 
 ---
 
@@ -60,6 +62,7 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 |-----------|---------|----------|
 | Matriz LED 8x8 | 1588BS | Representación del tablero |
 | Joystick analógico XY | Estándar | Movimiento y selección |
+| Buzzer | Estándar | Cronómetro e indicaciones |
 
 ### 🔵 Otros componentes
 - Arduino UNO / compatible  
@@ -70,7 +73,12 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 
 ## 📈 Esquema de conexiones
 
+Un ejemplo del primer montaje:
 ![image-1763633699471](https://github.com/user-attachments/assets/464fcb99-9c37-4dcc-9fd4-62c7b5dfb689)
+
+El montaje final, con buzzer incluido:
+![1000044581](https://github.com/user-attachments/assets/3b4ed390-20cf-44b6-87b6-7989ac7a534a)
+
 
 ---
 
@@ -79,18 +87,20 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 ### ✔️ Completado
 - Montaje del circuito  
 - Pruebas iniciales de matriz  
-- Lectura del joystick  
-
-### 🔨 En desarrollo
+- Lectura del joystick
 - Movimiento de selección  
 - Caída de ficha  
-- Turnos  
-
-### 🧠 Pendiente
+- Turnos
 - Detección de victoria  
 - Parpadeo del jugador 2  
 - Limpieza final del código  
-- Pruebas completas  
+- Cronómetro con buzzer
+
+### 🔨 En desarrollo
+
+
+### 🧠 Pendiente
+ 
 
 ---
 
