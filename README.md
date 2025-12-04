@@ -53,6 +53,11 @@ El objetivo de este proyecto es construir una versión electrónica del **Cuatro
 ![Matrix8x8 Arduino](https://github.com/user-attachments/assets/1240046c-6ab7-4172-9f83-809f5fe94416)
 
 
+Montaje final Tinkercad:
+![Montaje_ProyectoFinal_XavierPastor_AlejandroMartínez](https://github.com/user-attachments/assets/d3199be1-5234-4ae7-8014-de5b76ecdd6e)
+
+
+
 ---
 
 ## 🧩 Lista de sensores y componentes
